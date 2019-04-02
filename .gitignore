@@ -1,0 +1,96 @@
+##
+## EPITECH PROJECT, 2019
+## .gitignore
+## File description:
+## .gitignore for shell projects (with .gitignore)
+## Author: francois.lefevre@epitech.eu
+## Last revision: 02/04/2019
+## Licensed under the Creative Commons Zero v1.0 Universal license
+##
+
+# Ignore the gitignores because they have nothing to do with the project
+# .gitignore
+
+# Ignore temp files used during development
+*.bak
+*.old
+
+# Ignore valgrind dumps
+vgcore*
+
+# Ignore macOS Finder temp files
+*.DS_Store
+__MACOSX/
+
+# Ignore Windows Explorer temp files
+Thumbs.db
+
+# Ignore the subject's PDF
+/subject-*
+
+# Ignore reference files (solution)
+/reference/
+
+# Ignore README and LICENSE from GitHub libs
+LICENSE
+README.md
+
+# Ignore binaries/executables
+unit_tests
+
+# Ignore temp files from vim
+*.swp
+
+# ===== Below is the content of the file at https://github.com/github/gitignore/blob/master/Global/VisualStudioCode.gitignore, by GitHub, licensed under the Creative Commons Zero v1.0 Universal license (https://github.com/github/gitignore/blob/master/LICENSE).
+.vscode/*
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
+# !.vscode/extensions.json
+
+# ===== Below is the content of the file at https://github.com/github/gitignore/blob/master/Global/Emacs.gitignore, by GitHub, licensed under the Creative Commons Zero v1.0 Universal license (https://github.com/github/gitignore/blob/master/LICENSE).
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Org-mode
+.org-id-locations
+*_archive
+
+# flymake-mode
+*_flymake.*
+
+# eshell files
+/eshell/history
+/eshell/lastdir
+
+# elpa packages
+/elpa/
+
+# reftex files
+*.rel
+
+# AUCTeX auto folder
+/auto/
+
+# cask packages
+.cask/
+dist/
+
+# Flycheck
+flycheck_*.el
+
+# server auth directory
+/server/
+
+# projectiles files
+.projectile
+
+# directory configuration
+.dir-locals.el

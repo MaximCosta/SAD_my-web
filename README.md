@@ -1,0 +1,2 @@
+# SAD_my-web
+Automatic scripts to create virtual machines for the my-web project (1st year project at EPITECH), using libvirt on Fedora 29. REUSE THIS CODE AT YOUR OWN RISKS, GITHUB PLAGIARISM IS SEVERLY PUNISHED IN MOST SCHOOLS AND UNIVERSITIES! UTILISEZ CE CODE À VOS RISQUES ET PÉRILS, LE PLAGIAT EST SÉVÈREMENT PUNI DANS LA PLUPART DES ÉCOLES !

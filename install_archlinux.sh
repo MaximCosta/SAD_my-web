@@ -1,5 +1,5 @@
 #!/bin/bash
-65;5403;1cecho "[B-SAD-200_my-web part 1] auto installer for Arch Linux in my-client (for Fedora 28/29)"
+echo "[B-SAD-200_my-web part 1] auto installer for Arch Linux in my-client (for Fedora 28/29)"
 echo "Authors: francois.lefevre@epitech.eu laurent.gelard@epitech.eu"
 echo "-----"
 
